@@ -1,7 +1,6 @@
 # WORKSHOP - 5: License Plate Detection using OpenCV and Haar Cascade Classifier
-<H3>Name: DHANUSH C</H3>
-<H3>Register no: 212224040066</H3>
-<H3>Date: 10.11.2025 </H3>
+<H3>Name:Sai Ram E</H3>
+<H3>Register no: 212224240141</H3>
 
 # AIM:
 To perform Gray scale Morphology Real Time Bone Fracture Detection.
@@ -104,14 +103,13 @@ plt.show()
 
 ```
 # OUTPUT:
-
-<img width="425" height="512" alt="Screenshot 2025-11-10 111526" src="https://github.com/user-attachments/assets/85c40ee8-5196-4fa0-be81-687f633f49b7" />
+<img width="515" height="370" alt="image" src="https://github.com/user-attachments/assets/3161b8f3-80a7-4c1a-bf4f-06aaeaec68ff" />
 <br>
-<img width="391" height="507" alt="Screenshot 2025-11-10 111551" src="https://github.com/user-attachments/assets/88f94960-83e3-4145-adae-97fcaca87a79" />
+<img width="515" height="370" alt="image" src="https://github.com/user-attachments/assets/d42b1931-3281-4871-ad94-f5d587ebdd42" />
 <br>
-<img width="420" height="512" alt="Screenshot 2025-11-10 111607" src="https://github.com/user-attachments/assets/e5417685-22d4-47b3-af66-769be8b82aa9" />
+<img width="515" height="370" alt="image" src="https://github.com/user-attachments/assets/7a08ba0a-de83-42e4-8726-02697640cfd5" />
 <br>
-<img width="418" height="558" alt="Screenshot 2025-11-10 111626" src="https://github.com/user-attachments/assets/1f5f2500-3479-47c8-a246-74e84bd2f051" />
+<img width="515" height="370" alt="image" src="https://github.com/user-attachments/assets/1cc2555e-8eb6-45a5-8564-68bab53178b1" />
 
 
 
